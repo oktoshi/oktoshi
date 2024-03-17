@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Toshi&height=100&section=header"/>
-</p>
 
 ## Exp
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=oktoshi&theme=algolia&row=1&column=4&margin-w=5" /></p>
 
 ## Blockchain
+
 <div class='row'><a>
 <img src="https://okcash.co/wp-content/uploads/2023/04/ethereum.png" width="150" height="40"/>
 <img src="https://okcash.co/wp-content/uploads/2023/04/binance.png" width="150" height="40"/>
@@ -67,7 +65,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
 </p>
 
-## Repositories
+## Top Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okcashpro&repo=okcash&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/okcashpro/okcash)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bitcoinfullnode&repo=rokos-ok-bitcoin-fullnode&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/bitcoinfullnode/rokos-ok-bitcoin-fullnode)
@@ -83,7 +81,7 @@
 
 ## Statistics
 
-[![Oktoshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oktoshi&theme=github-compact)](https://github.com/oktoshi?tab=repositories)
+[![Oktoshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oktoshi&theme=github-compact)](https://github.com/okcashpro)
 
 ---
 
