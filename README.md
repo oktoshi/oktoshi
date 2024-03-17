@@ -6,8 +6,6 @@
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=oktoshi&theme=algolia&row=1&column=4&margin-w=5" /></p>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/oktoshi?cardType=octocat&theme=chartreuse-dark&Text=FFFFFF)](https://git.io/awesome-stats-card)
-
 ## Blockchain
 <div class='row'><a>
 <img src="https://okcash.co/wp-content/uploads/2023/04/ethereum.png" width="150" height="40"/>
@@ -96,3 +94,7 @@
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=okcashpro/okcash&type=Date" />
   </picture>
 </a>
+
+---
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/oktoshi?cardType=octocat&theme=chartreuse-dark&Text=FFFFFF)](https://git.io/awesome-stats-card)
